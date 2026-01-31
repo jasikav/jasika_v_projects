@@ -15,15 +15,15 @@ This repository contains links to my data analysis and data science projects bui
 
 ---
 
-### 2️⃣ Project 2 (Update Name)
+### 2️⃣ Superstore-business-analysis
 - Description: Brief description of what you did.
-- Tools: Python / SQL / Excel (update later)
+- Tools: Python / SQL / Excel 
 - GitHub Repo:  
   https://github.com/jasikav/<project-2-repo-name>
 
 ---
 
-### 3️⃣ Project 3 (Update Name)
+### 3️⃣ Trader-Behavior-Market-Sentiment-Analysis
 - Description: Brief description of what you did.
 - Tools: Update later
 - GitHub Repo:  
